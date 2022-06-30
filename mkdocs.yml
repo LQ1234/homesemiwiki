@@ -1,5 +1,7 @@
-site_name: MkLorum
+site_name: Home Semiconductor Wiki
 site_url: https://homesemi.wiki/
+theme:
+    name: material
 nav:
     - Home: index.md
     - About: about.md
