@@ -1,5 +1,8 @@
 site_name: Home Semiconductor Wiki
 site_url: https://homesemi.wiki/
+repo_url: https://github.com/LQ1234/homesemiwiki
+edit_uri: edit/main/docs/
+
 theme:
     name: material
 nav:
